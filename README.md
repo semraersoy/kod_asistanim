@@ -10,4 +10,4 @@ BAŞLA
   EGER deger>=50  ise YAZ "Kritik Eşik"
   DEĞİLSE YAZ "Durum Normal"
  DUR
-## Kaynakça : Ders Kitabı
+## Kaynakça : 9. Sınıf Programlama Temelleri Ders Kitabı 
